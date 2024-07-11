@@ -1,6 +1,0 @@
-{
-  "editor.tabSize": 2,
-  "importSorter.importStringConfiguration.tabSize": 2,
-  "deno.enable": false,
-  "cSpell.words": ["bbox"]
-}
