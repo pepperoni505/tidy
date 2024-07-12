@@ -1,3 +1,5 @@
+#### This is a forked version of [tidy](https://github.com/zxch3n/tidy) to remove everything not immediately relevant to the Rust crate
+
 # Tidy Tree Visualization
 
 ![Show Case](https://i.ibb.co/hM6mnZS/202206150143.gif)
